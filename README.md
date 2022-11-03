@@ -1,4 +1,4 @@
-# Java-Chess-
+# Java-Chess
 Barebone Java Chess Game 
 Great to Learn Java front-end GUI connecting Java CLI to Buttons 
 
